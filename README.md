@@ -1,6 +1,13 @@
 # Olá sou o Marcus Visgueira!👍 
 ### Eterno aprendiz de linguagens de programação (atualmente em Python) e agora entrando na área de Ciência de Dados, Machine Learning e IA.
 
+<div align="center">
+  <a href="https://github.com/visgueira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visgueira&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
 
 <!--
 **visgueira/visgueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
