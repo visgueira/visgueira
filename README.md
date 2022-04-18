@@ -15,6 +15,7 @@
 * Power BI;
 * QlikSense;
 * Data Visualization;
+* Streamlit;
 * Pentaho;
 * IPED;
 * Shell Script.
