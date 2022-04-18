@@ -1,6 +1,6 @@
 # Olá sou o Marcus Visgueira!👍 
-Sempre atrás daquilo que para muitas pessoas assim como eu nunca é demais, **O Conhecimento**.
-Eterno aprendiz de linguagens de programação, e na vez não poderia ser outra, ou seja, _Python_ 🐍.
+Sempre atrás daquilo que para muitas pessoas, assim como eu, consideram que nunca é demais **O Conhecimento**.
+Eterno aprendiz de linguagens de programação, e na vez não poderia ser outra, ou seja, **_Python_** 🐍.
 Atualmente adquirindo e aprofundando conhecimentos na área de Ciência de Dados👩‍💻, Machine Learning e Inteligência Artificial. Futuro cientista de dados pela UNINASSAU.
 
 <div align="left">
@@ -44,7 +44,7 @@ Atualmente adquirindo e aprofundando conhecimentos na área de Ciência de Dados
 
 *  [Linkedin]( https://www.linkedin.com/in/marcus-aur%C3%A9lio-do-b-visgueira-88543124/)
 *  [Instagram]( https://www.instagram.com/marcusvisgueira)
-*  [E-mail]( visgueira@gmail.com) 
+*  [E-mail](visgueira@gmail.com) 
   
   
   
