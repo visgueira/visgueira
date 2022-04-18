@@ -38,6 +38,14 @@
           
 </div>
 
+## Onde me encontrar:
+
+*  [Linkedin]( https://www.linkedin.com/in/marcus-aur%C3%A9lio-do-b-visgueira-88543124/)
+*  [Instagram]( https://www.instagram.com/marcusvisgueira)
+*  [E-mail]( visgueira@gmail.com) 
+  
+  
+  
 <!--
 **visgueira/visgueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
