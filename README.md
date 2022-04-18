@@ -1,4 +1,6 @@
-# Olá sou o Marcus Visgueira 👍
+# Olá sou o Marcus Visgueira!👍 
+### Eterno aprendiz de linguagens de programação e atualmente entrando na área de Ciência de Dados.
+
 
 <!--
 **visgueira/visgueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
