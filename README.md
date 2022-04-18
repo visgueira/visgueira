@@ -1,6 +1,7 @@
 # Olá sou o Marcus Visgueira!👍 
-### Eterno aprendiz de linguagens de programação, e na vez não poderia ser outra, ou seja, _Python_ 🐍.
-### Atualmente adquirindo e aprofundando conhecimentos na área de Ciência de Dados👩‍💻, Machine Learning e Inteligência Artificial. Futuro cientista de dados pela UNINASSAU.
+Sempre atrás daquilo que para muitas pessoas assim como eu nunca é demais, **O Conhecimento**.
+Eterno aprendiz de linguagens de programação, e na vez não poderia ser outra, ou seja, _Python_ 🐍.
+Atualmente adquirindo e aprofundando conhecimentos na área de Ciência de Dados👩‍💻, Machine Learning e Inteligência Artificial. Futuro cientista de dados pela UNINASSAU.
 
 <div align="left">
   <a href="https://github.com/visgueira">
