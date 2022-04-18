@@ -1,5 +1,5 @@
 # Olá sou o Marcus Visgueira!👍 
-### Eterno aprendiz de linguagens de programação e atualmente entrando na área de Ciência de Dados.
+### Eterno aprendiz de linguagens de programação (atualmente em Python) e agora entrando na área de Ciência de Dados, Machine Learning e IA.
 
 
 <!--
