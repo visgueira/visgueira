@@ -1,13 +1,24 @@
 # Olá sou o Marcus Visgueira!👍 
-##Eterno aprendiz de linguagens de programação, e na vez não poderia ser outra, ou seja, _Python_ 🐍.
-Atualmente adquirindo e aprofundando conhecimentos na área de Ciência de Dados👩‍💻, Machine Learning e Inteligência Artificial.
+### Eterno aprendiz de linguagens de programação, e na vez não poderia ser outra, ou seja, _Python_ 🐍.
+### Atualmente adquirindo e aprofundando conhecimentos na área de Ciência de Dados👩‍💻, Machine Learning e Inteligência Artificial.
 
 <div align="left">
   <a href="https://github.com/visgueira">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=visgueira&show_icons=true&include_all_commits=true&count_private=true"/>
-  <!-- <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visgueira&layout=compact&langs_count=7&theme=dracula"/> -->
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visgueira&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
 
+# Habilidades (Skills)
+  
+* Python;
+* SQL;
+* Power BI;
+* QlikSense;
+* Data Visualization;
+* Pentaho;
+* IPED;
+* Shell Script.
+  
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
