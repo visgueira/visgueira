@@ -44,7 +44,6 @@ Atualmente adquirindo e aprofundando conhecimentos na área de Ciência de Dados
 
 *  [Linkedin]( https://www.linkedin.com/in/marcus-aur%C3%A9lio-do-b-visgueira-88543124/)
 *  [Instagram]( https://www.instagram.com/marcusvisgueira)
-*  [E-mail](visgueira@gmail.com) 
   
   
   
