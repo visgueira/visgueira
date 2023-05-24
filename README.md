@@ -1,5 +1,5 @@
 # Olá sou o Marcus Visgueira!👍 
-Sempre atrás daquilo que para muitas pessoas, assim como eu, consideram que nunca é demais: **"O Conhecimento"**.
+Sempre atrás daquilo que para muitas pessoas, assim como eu consideram que nunca é demais: **"O Conhecimento"**.
 
 Eterno aprendiz das linguagens de programação, e na vez não poderia ser outra, é **_Python_** 🐍.
 
